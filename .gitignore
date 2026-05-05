@@ -1,0 +1,9 @@
+# MetaTrader build artifacts
+*.ex5
+*.log
+*.tmp
+
+# OS/editor files
+.DS_Store
+.idea/
+.vscode/
