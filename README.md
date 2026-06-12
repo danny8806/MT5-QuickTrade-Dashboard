@@ -39,6 +39,13 @@ The dashboard fields are edited directly on the chart:
 
 This EA places manual dashboard trades. Test on a demo account first and confirm symbol contract specifications, broker stop levels, and spread behavior before using it with real capital.
 
-## Suggested Repository Name
+## 👨‍💻 Built by Dnyaneshwar Jadhav
 
-`tradedash-mt5-ea`
+**AI/ML Developer | Quant Developer | Algorithmic Trading Developer | Python Developer**
+
+📱 **Phone:** +91 8806160767
+📧 **Email:** [jadhavdnyaneshwar701@gmail.com](mailto:jadhavdnyaneshwar701@gmail.com)
+💼 **LinkedIn:** https://linkedin.com/in/dnyaneshwar-jadhav-34112a2a8
+🌐 **Portfolio:** https://trademind-ai-xniwrofd.devinapps.com
+
+*"From Data to Alpha."* 📊⚡
